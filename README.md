@@ -2,7 +2,7 @@
 Implementasi Aplikasi Barang Bekas di Java untuk Tugas Besar Pemrograman Berorientasi Objek
 
 
-Kelompok 7:
+Kelompok 7 IT-45-03:
 
 Mohamad Rizki Seno Zakirsyah - 1303210100
 
