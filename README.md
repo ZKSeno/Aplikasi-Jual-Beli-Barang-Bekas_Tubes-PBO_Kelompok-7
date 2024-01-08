@@ -2,7 +2,6 @@
 Implementasi Aplikasi Barang Bekas di Java untuk Tugas Besar Pemrograman Berorientasi Objek
 
 
-
 Kelompok 7:
 
 Mohamad Rizki Seno Zakirsyah - 1303210100
@@ -16,6 +15,7 @@ Ahmad Jundi Rabbani - 1303210009
 Novri Habibullah - 1303213105
 
 M Ragil Maulana S. - 1303213053
+
 
 
 
